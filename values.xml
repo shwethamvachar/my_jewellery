@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">950877068082-gogmhmki5fvk4653ptbrvjf5tbd16q2g.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">950877068082</string>
+    <string name="google_api_key" translatable="false">AIzaSyAFfPvXK_f8SU0y-mD-St5fiAcURGibxck</string>
+    <string name="google_app_id" translatable="false">1:950877068082:android:54c57a5f13524dbbf9552b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAFfPvXK_f8SU0y-mD-St5fiAcURGibxck</string>
+    <string name="google_storage_bucket" translatable="false">myjewellary-c5923.appspot.com</string>
+    <string name="project_id" translatable="false">myjewellary-c5923</string>
+</resources>

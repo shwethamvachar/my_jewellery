@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "950877068082",
+    "project_id": "myjewellary-c5923",
+    "storage_bucket": "myjewellary-c5923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950877068082:android:54c57a5f13524dbbf9552b",
+        "android_client_info": {
+          "package_name": "com.example.myjewellary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950877068082-oopoadumsgqjr3d0mth1m8ijup62d9ru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myjewellary",
+            "certificate_hash": "d4d12c46fae7e20b67885c32b718a8da4360171e"
+          }
+        },
+        {
+          "client_id": "950877068082-gogmhmki5fvk4653ptbrvjf5tbd16q2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFfPvXK_f8SU0y-mD-St5fiAcURGibxck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950877068082-gogmhmki5fvk4653ptbrvjf5tbd16q2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
